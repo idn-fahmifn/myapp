@@ -11,3 +11,7 @@ $table = "ini halaman saya";
 $table = "ini halaman saya";
 $table = "ini halaman saya";
 
+<!-- udate 2 -->
+$table = "ini halaman saya";
+$table = "ini halaman saya";
+$table = "ini halaman saya";
